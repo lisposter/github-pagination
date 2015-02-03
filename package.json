@@ -1,0 +1,27 @@
+{
+  "name": "github-pagination",
+  "version": "0.1.0",
+  "description": "A simple js lib for parse GitHub's pagination info from API's response.",
+  "main": "lib/octopage.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.5",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lisposter/github-pagination.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lisposter/github-pagination/issues"
+  },
+  "homepage": "https://github.com/lisposter/github-pagination",
+  "keywords": ["GitHub","api","parser","pagination"],
+  "author": "Leigh Zhu",
+  "license": "MIT"
+}
