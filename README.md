@@ -29,7 +29,7 @@ console.log(octopage.parser(test));
 // { next: '15', last: '34', first: '1', prev: '13' }
 ```
 
-in borwser
+in browser
 
 link this script and then,
 
